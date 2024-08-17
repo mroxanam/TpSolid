@@ -1,0 +1,6 @@
+Cantidad: 2
+Nombre: El Gran Libro
+Precio: 29
+Descuento: 0,1
+Impuesto: 0,2
+Total: 63,800000000000004

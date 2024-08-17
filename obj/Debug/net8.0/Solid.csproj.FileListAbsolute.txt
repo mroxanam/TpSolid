@@ -1,0 +1,28 @@
+D:\Users\Usuario\Desktop\Narciso\Solid\bin\Debug\net8.0\Solid.exe
+D:\Users\Usuario\Desktop\Narciso\Solid\bin\Debug\net8.0\Solid.deps.json
+D:\Users\Usuario\Desktop\Narciso\Solid\bin\Debug\net8.0\Solid.runtimeconfig.json
+D:\Users\Usuario\Desktop\Narciso\Solid\bin\Debug\net8.0\Solid.dll
+D:\Users\Usuario\Desktop\Narciso\Solid\bin\Debug\net8.0\Solid.pdb
+D:\Users\Usuario\Desktop\Narciso\Solid\obj\Debug\net8.0\Solid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Desktop\Narciso\Solid\obj\Debug\net8.0\Solid.AssemblyInfoInputs.cache
+D:\Users\Usuario\Desktop\Narciso\Solid\obj\Debug\net8.0\Solid.AssemblyInfo.cs
+D:\Users\Usuario\Desktop\Narciso\Solid\obj\Debug\net8.0\Solid.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\Narciso\Solid\obj\Debug\net8.0\Solid.dll
+D:\Users\Usuario\Desktop\Narciso\Solid\obj\Debug\net8.0\refint\Solid.dll
+D:\Users\Usuario\Desktop\Narciso\Solid\obj\Debug\net8.0\Solid.pdb
+D:\Users\Usuario\Desktop\Narciso\Solid\obj\Debug\net8.0\Solid.genruntimeconfig.cache
+D:\Users\Usuario\Desktop\Narciso\Solid\obj\Debug\net8.0\ref\Solid.dll
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\obj\Debug\net8.0\Solid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\obj\Debug\net8.0\Solid.AssemblyInfoInputs.cache
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\obj\Debug\net8.0\Solid.AssemblyInfo.cs
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\obj\Debug\net8.0\Solid.csproj.CoreCompileInputs.cache
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\obj\Debug\net8.0\Solid.dll
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\obj\Debug\net8.0\refint\Solid.dll
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\obj\Debug\net8.0\Solid.pdb
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\bin\Debug\net8.0\Solid.exe
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\bin\Debug\net8.0\Solid.deps.json
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\bin\Debug\net8.0\Solid.runtimeconfig.json
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\bin\Debug\net8.0\Solid.dll
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\bin\Debug\net8.0\Solid.pdb
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\obj\Debug\net8.0\Solid.genruntimeconfig.cache
+D:\Users\Usuario\Desktop\Narciso\Solid - copia\obj\Debug\net8.0\ref\Solid.dll
